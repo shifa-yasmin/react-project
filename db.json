@@ -1,0 +1,725 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "DragonFruit Dessert",
+      "price": 34.99,
+      "category": "Desserts",
+      "ingredients": [
+        "Dragon Fruit",
+        "Sponge Cake",
+        "Mousse",
+        "Cream"
+      ],
+      "image": "/dragonp.jpeg"
+    },
+    {
+      "id": "2",
+      "name": "Blueberry Dessert",
+      "price": 32.99,
+      "category": "Desserts",
+      "ingredients": [
+        "Lychee",
+        "Cream",
+        "Milk",
+        "Sugar"
+      ],
+      "image": "/blueberryp.jpeg"
+    },
+    {
+      "id": "3",
+      "name": "Strawberry Bliss",
+      "price": 31.99,
+      "category": "Desserts",
+      "ingredients": [
+        "Strawberry",
+        "Cream",
+        "Cake",
+        "Sugar"
+      ],
+      "image": "/strawberryp.jpeg"
+    },
+    {
+      "id": "4",
+      "name": "Mango Mousse Jar",
+      "price": 33.99,
+      "category": "Desserts",
+      "ingredients": [
+        "Mango",
+        "Cream",
+        "Milk",
+        "Vanilla"
+      ],
+      "image": "/mangop.jpeg"
+    },
+    {
+      "id": "5",
+      "name": "Cherries Dessert",
+      "price": 35.99,
+      "category": "Desserts",
+      "ingredients": [
+        "Cherry",
+        "Cream Cheese",
+        "Biscuit",
+        "Butter"
+      ],
+      "image": "/cherreep.jpeg"
+    },
+    {
+      "id": "6",
+      "name": "MilkChocolate Dessert",
+      "price": 36.99,
+      "category": "Desserts",
+      "ingredients": [
+        "Milk Chocolate",
+        "Cream Cheese",
+        "Biscuit",
+        "Butter"
+      ],
+      "image": "/milkchocolatep.jpeg"
+    },
+    {
+      "id": "7",
+      "name": "Guava Juice",
+      "price": 18.99,
+      "category": "Drinks",
+      "ingredients": [
+        "Guava",
+        "Water",
+        "Sugar"
+      ],
+      "image": "/guavad.png"
+    },
+    {
+      "id": "8",
+      "name": "Orange Fresh",
+      "price": 17.99,
+      "category": "Drinks",
+      "ingredients": [
+        "Orange",
+        "Water",
+        "Sugar"
+      ],
+      "image": "/oranged.png"
+    },
+    {
+      "id": "9",
+      "name": "Strawberry Shake",
+      "price": 19.99,
+      "category": "Drinks",
+      "ingredients": [
+        "Strawberry",
+        "Milk",
+        "Sugar"
+      ],
+      "image": "/strawberryd.png"
+    },
+    {
+      "id": "10",
+      "name": "Passion Fruit Splash",
+      "price": 11.99,
+      "category": "Drinks",
+      "ingredients": [
+        "Passion Fruit",
+        "Ice",
+        "Sugar Syrup"
+      ],
+      "image": "/passionfrdd.jpeg"
+    },
+    {
+      "id": "11",
+      "name": "Lychee Cooler",
+      "price": 18.99,
+      "category": "Drinks",
+      "ingredients": [
+        "Lychee",
+        "Ice",
+        "Sugar Syrup"
+      ],
+      "image": "/lycheed.png"
+    },
+    {
+      "id": "12",
+      "name": "Mango Smoothie",
+      "price": 10.99,
+      "category": "Drinks",
+      "ingredients": [
+        "Mango",
+        "Milk",
+        "Honey"
+      ],
+      "image": "/mangod.jpeg"
+    },
+    {
+      "id": "13",
+      "name": "Mango Pudding",
+      "price": 11.99,
+      "category": "Pudding",
+      "ingredients": [
+        "Mango",
+        "Milk",
+        "Cream",
+        "Sugar"
+      ],
+      "image": "/mangopp.jpeg"
+    },
+    {
+      "id": "14",
+      "name": "Dragon Fruit Pudding",
+      "price": 15.99,
+      "category": "Pudding",
+      "ingredients": [
+        "Dragon Fruit",
+        "Milk",
+        "Cream",
+        "Sugar"
+      ],
+      "image": "/dragonpp.jpeg"
+    },
+    {
+      "id": "15",
+      "name": "Strawberry Pudding",
+      "price": 17.99,
+      "category": "Pudding",
+      "ingredients": [
+        "Strawberry",
+        "Milk",
+        "Cream",
+        "Sugar"
+      ],
+      "image": "/strawberrypp.jpeg"
+    }
+  ],
+  "users": [
+    {
+      "username": "shifa",
+      "fullName": "yasmin",
+      "email": "shifayasmin23@gmail.com",
+      "password": "shifasafa",
+      "id": "72bxioFsy9c"
+    },
+    {
+      "username": "safa",
+      "fullName": "yasmin",
+      "email": "safa23@gmail.com",
+      "password": "safashifa",
+      "id": "HBWmp42KAfA"
+    },
+    {
+      "username": "sachu",
+      "fullName": "muhammed",
+      "email": "sachu@gmail.com",
+      "password": "sachuashmil",
+      "id": "7_rfEgUVRIY"
+    },
+    {
+      "username": "shahma",
+      "fullName": "fathima",
+      "email": "shahma@gmail.com",
+      "password": "shahma",
+      "id": "TvfVClj3Rc0"
+    },
+    {
+      "username": "lallu",
+      "fullName": "lallu",
+      "email": "lallu@gmail.com",
+      "password": "lallu",
+      "id": "P7R8VwknJPU"
+    },
+    {
+      "username": "sabira",
+      "fullName": "fath",
+      "email": "sabira@gmail.com",
+      "password": "sabira",
+      "id": "bZhTaW-0ZIs"
+    },
+    {
+      "username": "hassan",
+      "fullName": "hassan",
+      "email": "hassan@gmail.com",
+      "password": "hassan",
+      "id": "xu0AVojIVu8"
+    },
+    {
+      "username": "fayas",
+      "fullName": "fayas",
+      "email": "fayas@gmail.com",
+      "password": "fayas",
+      "id": "25nd-2tY9M8"
+    },
+    {
+      "username": "muhammed",
+      "fullName": "muhammed",
+      "email": "muhammed@gmail.com",
+      "password": "muhammed11",
+      "id": "Ix9XcQG1SQE"
+    },
+    {
+      "username": "fathima",
+      "fullName": "fathima",
+      "email": "fathima@gmail.com",
+      "password": "fathima11",
+      "id": "Ifbrz9DdCHA"
+    },
+    {
+      "username": "admin",
+      "fullName": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "id": "vPrmNenbQgk",
+      "role": "admin"
+    }
+  ],
+  "wishlist": [
+    {
+      "userId": "bZhTaW-0ZIs",
+      "productId": "7",
+      "name": "Guava Juice",
+      "image": "/guavad.png",
+      "price": 4.99,
+      "id": "ntKkSaMw7Dg"
+    },
+    {
+      "userId": "Ix9XcQG1SQE",
+      "productId": "7",
+      "name": "Guava Juice",
+      "image": "/guavad.png",
+      "price": 18.99,
+      "id": "-TsKNZxfATQ"
+    }
+  ],
+  "cart": [
+    {
+      "userId": "bZhTaW-0ZIs",
+      "productId": "8",
+      "name": "Orange Fresh",
+      "image": "/oranged.png",
+      "price": 4.49,
+      "description": "",
+      "qty": 1,
+      "id": "Eke4fzQexuk"
+    },
+    {
+      "userId": "25nd-2tY9M8",
+      "productId": "8",
+      "name": "Orange Fresh",
+      "image": "/oranged.png",
+      "price": 17.99,
+      "description": "",
+      "qty": 1,
+      "id": "0TD9VIWjlKY"
+    },
+    {
+      "userId": "Ifbrz9DdCHA",
+      "productId": "11",
+      "name": "Lychee Cooler",
+      "image": "/lycheed.png",
+      "price": 18.99,
+      "description": "",
+      "qty": 3,
+      "id": "R11JRF-GDL0"
+    },
+    {
+      "userId": "vPrmNenbQgk",
+      "productId": "1",
+      "name": "DragonFruit Dessert",
+      "image": "/dragonp.jpeg",
+      "price": 34.99,
+      "description": "",
+      "qty": 5,
+      "id": "m_A-KkCYL78"
+    }
+  ],
+  "orders": [
+    {
+      "userId": "25nd-2tY9M8",
+      "items": [
+        {
+          "userId": "25nd-2tY9M8",
+          "productId": "1",
+          "name": "DragonFruit Dessert",
+          "image": "/dragonp.jpeg",
+          "price": 34.99,
+          "description": "",
+          "qty": 1,
+          "id": "9gxO8mcQP9g"
+        }
+      ],
+      "subtotal": 34.99,
+      "shippingCharge": 5,
+      "total": 39.99,
+      "paymentMethod": "Cash On Delivery",
+      "status": "Order Placed",
+      "createdAt": "2026-06-22T09:28:01.610Z",
+      "address": {
+        "fullName": "shifa",
+        "phone": "09526745274",
+        "address": "pakkath(H),aliparampa(po)",
+        "city": "karinkallathani",
+        "pincode": "679357"
+      },
+      "id": "MoeQRgNyHuk"
+    },
+    {
+      "userId": "72bxioFsy9c",
+      "items": [
+        {
+          "userId": "72bxioFsy9c",
+          "productId": "7",
+          "name": "Guava Juice",
+          "image": "/guavad.png",
+          "price": 18.99,
+          "description": "",
+          "qty": 1,
+          "id": "Kr6Bbeyw-4c"
+        },
+        {
+          "userId": "72bxioFsy9c",
+          "productId": "8",
+          "name": "Orange Fresh",
+          "image": "/oranged.png",
+          "price": 17.99,
+          "description": "",
+          "qty": 1,
+          "id": "7dFlJ6GKPhc"
+        }
+      ],
+      "subtotal": 36.98,
+      "shippingCharge": 5,
+      "total": 41.98,
+      "paymentMethod": "Cash On Delivery",
+      "status": "Order Placed",
+      "createdAt": "2026-06-22T09:31:15.353Z",
+      "address": {
+        "fullName": "shifa",
+        "phone": "09526745274",
+        "address": "pakkath(H),aliparampa(po)",
+        "city": "karinkallathani",
+        "pincode": "679357"
+      },
+      "id": "XnXrfFORbBs"
+    },
+    {
+      "userId": "25nd-2tY9M8",
+      "items": [
+        {
+          "userId": "25nd-2tY9M8",
+          "productId": "8",
+          "name": "Orange Fresh",
+          "image": "/oranged.png",
+          "price": 17.99,
+          "description": "",
+          "qty": 1,
+          "id": "h1geGXodv3E"
+        },
+        {
+          "userId": "25nd-2tY9M8",
+          "productId": "1",
+          "name": "DragonFruit Dessert",
+          "image": "/dragonp.jpeg",
+          "price": 34.99,
+          "description": "",
+          "qty": 1,
+          "id": "-qdgrNCFNB0"
+        },
+        {
+          "userId": "25nd-2tY9M8",
+          "productId": "14",
+          "name": "Dragon Fruit Pudding",
+          "image": "/dragonpp.jpeg",
+          "price": 15.99,
+          "description": "",
+          "qty": 1,
+          "id": "plkxQTLrOP4"
+        }
+      ],
+      "subtotal": 68.97,
+      "shippingCharge": 5,
+      "total": 73.97,
+      "paymentMethod": "Razorpay",
+      "status": "Order Placed",
+      "createdAt": "2026-06-22T10:13:25.980Z",
+      "address": {
+        "fullName": "shifa",
+        "phone": "09526745274",
+        "address": "pakkath(H),aliparampa(po)",
+        "city": "karinkallathani",
+        "pincode": "679357"
+      },
+      "id": "fgTqjhyUUgQ"
+    },
+    {
+      "userId": "25nd-2tY9M8",
+      "items": [
+        {
+          "userId": "25nd-2tY9M8",
+          "productId": "2",
+          "name": "Blueberry Dessert",
+          "image": "/blueberryp.jpeg",
+          "price": 32.99,
+          "description": "",
+          "qty": 1,
+          "id": "jd3CZEJLK50"
+        }
+      ],
+      "subtotal": 32.99,
+      "shippingCharge": 5,
+      "total": 37.99,
+      "paymentMethod": "Razorpay",
+      "status": "Order Placed",
+      "createdAt": "2026-06-22T10:18:22.107Z",
+      "address": {
+        "fullName": "shifa",
+        "phone": "09526745274",
+        "address": "pakkath(H),aliparampa(po)",
+        "city": "karinkallathani",
+        "pincode": "679357"
+      },
+      "id": "ciFuHtSEckI"
+    },
+    {
+      "userId": "25nd-2tY9M8",
+      "items": [
+        {
+          "userId": "25nd-2tY9M8",
+          "productId": "2",
+          "name": "Blueberry Dessert",
+          "image": "/blueberryp.jpeg",
+          "price": 32.99,
+          "description": "",
+          "qty": 1,
+          "id": "_I6_xbsJaI8"
+        }
+      ],
+      "subtotal": 32.99,
+      "shippingCharge": 5,
+      "total": 37.99,
+      "paymentMethod": "Cash On Delivery",
+      "status": "Order Placed",
+      "createdAt": "2026-06-22T10:22:37.841Z",
+      "address": {
+        "fullName": "shifa",
+        "phone": "09526745274",
+        "address": "pakkath(H),aliparampa(po)",
+        "city": "karinkallathani",
+        "pincode": "679357"
+      },
+      "id": "xXb8sKbX9dk"
+    },
+    {
+      "userId": "25nd-2tY9M8",
+      "items": [
+        {
+          "userId": "25nd-2tY9M8",
+          "productId": "2",
+          "name": "Blueberry Dessert",
+          "image": "/blueberryp.jpeg",
+          "price": 32.99,
+          "description": "",
+          "qty": 1,
+          "id": "AfBf05LfgLU"
+        }
+      ],
+      "subtotal": 32.99,
+      "shippingCharge": 5,
+      "total": 37.99,
+      "paymentMethod": "Cash On Delivery",
+      "status": "Order Placed",
+      "createdAt": "2026-06-22T10:23:37.141Z",
+      "address": {
+        "fullName": "shifa",
+        "phone": "09526745274",
+        "address": "pakkath(H),aliparampa(po)",
+        "city": "karinkallathani",
+        "pincode": "679357"
+      },
+      "id": "CnwWnuku_Qk"
+    },
+    {
+      "userId": "25nd-2tY9M8",
+      "items": [
+        {
+          "userId": "25nd-2tY9M8",
+          "productId": "7",
+          "name": "Guava Juice",
+          "image": "/guavad.png",
+          "price": 18.99,
+          "description": "",
+          "qty": 1,
+          "id": "9-CQeqJZbhg"
+        }
+      ],
+      "subtotal": 18.99,
+      "shippingCharge": 5,
+      "total": 23.99,
+      "paymentMethod": "Cash On Delivery",
+      "status": "Order Placed",
+      "createdAt": "2026-06-22T12:01:17.773Z",
+      "address": {
+        "fullName": "shifa",
+        "phone": "09526745274",
+        "address": "pakkath(H),aliparampa(po)",
+        "city": "karinkallathani",
+        "pincode": "679357"
+      },
+      "id": "qcpyHQSOHQc"
+    },
+    {
+      "userId": "Ix9XcQG1SQE",
+      "items": [
+        {
+          "userId": "Ix9XcQG1SQE",
+          "productId": "7",
+          "name": "Guava Juice",
+          "image": "/guavad.png",
+          "price": 18.99,
+          "description": "",
+          "qty": 1,
+          "id": "qitjr36R7OI"
+        },
+        {
+          "userId": "Ix9XcQG1SQE",
+          "productId": "12",
+          "name": "Mango Smoothie",
+          "image": "/mangod.jpeg",
+          "price": 10.99,
+          "description": "",
+          "qty": 1,
+          "id": "qgyINvvLE58"
+        }
+      ],
+      "subtotal": 29.979999999999997,
+      "shippingCharge": 5,
+      "total": 34.98,
+      "paymentMethod": "Cash On Delivery",
+      "status": "Order Placed",
+      "createdAt": "2026-06-23T05:41:12.567Z",
+      "address": {
+        "fullName": "shifa",
+        "phone": "09526745274",
+        "address": "pakkath(H),aliparampa(po)",
+        "city": "karinkallathani",
+        "pincode": "679357"
+      },
+      "id": "Bju7a4Anals"
+    },
+    {
+      "userId": "P7R8VwknJPU",
+      "items": [
+        {
+          "userId": "P7R8VwknJPU",
+          "productId": "1",
+          "name": "DragonFruit Dessert",
+          "image": "/dragonp.jpeg",
+          "price": 8.99,
+          "description": "",
+          "qty": 3,
+          "id": "V5R0lx7F4TQ"
+        },
+        {
+          "userId": "P7R8VwknJPU",
+          "productId": "8",
+          "name": "Orange Fresh",
+          "image": "/oranged.png",
+          "price": 4.49,
+          "description": "",
+          "qty": 3,
+          "id": "wpuoUVzgu8c"
+        },
+        {
+          "userId": "P7R8VwknJPU",
+          "productId": "14",
+          "name": "Dragon Fruit Pudding",
+          "image": "/dragonpp.jpeg",
+          "price": 8.49,
+          "description": "",
+          "qty": 1,
+          "id": "0n3hQgJkuBc"
+        }
+      ],
+      "subtotal": 48.93,
+      "shippingCharge": 5,
+      "total": 53.93,
+      "paymentMethod": "Razorpay",
+      "status": "Order Placed",
+      "createdAt": "2026-06-23T06:47:37.093Z",
+      "address": {
+        "fullName": "shifa",
+        "phone": "09526745274",
+        "address": "pakkath(H),aliparampa(po)",
+        "city": "karinkallathani",
+        "pincode": "679357"
+      },
+      "id": "SQ28s5fhRX0"
+    },
+    {
+      "userId": "Ifbrz9DdCHA",
+      "items": [
+        {
+          "userId": "Ifbrz9DdCHA",
+          "productId": "13",
+          "name": "Mango Pudding",
+          "image": "/mangopp.jpeg",
+          "price": 11.99,
+          "description": "",
+          "qty": 2,
+          "id": "vUFbbz_OcN8"
+        },
+        {
+          "userId": "Ifbrz9DdCHA",
+          "productId": "14",
+          "name": "Dragon Fruit Pudding",
+          "image": "/dragonpp.jpeg",
+          "price": 15.99,
+          "description": "",
+          "qty": 6,
+          "id": "dq8cqo7wYtI"
+        }
+      ],
+      "subtotal": 119.92,
+      "shippingCharge": 5,
+      "total": 124.92,
+      "paymentMethod": "Cash On Delivery",
+      "status": "Order Placed",
+      "createdAt": "2026-06-23T08:47:32.189Z",
+      "address": {
+        "fullName": "shifa",
+        "phone": "09526745274",
+        "address": "pakkath(H),aliparampa(po)",
+        "city": "karinkallathani",
+        "pincode": "679357"
+      },
+      "id": "EIGt00AxoKk"
+    },
+    {
+      "userId": "Ifbrz9DdCHA",
+      "items": [
+        {
+          "userId": "Ifbrz9DdCHA",
+          "productId": "7",
+          "name": "Guava Juice",
+          "image": "/guavad.png",
+          "price": 18.99,
+          "description": "",
+          "qty": 1,
+          "id": "ONoXT1BsaRA"
+        }
+      ],
+      "subtotal": 18.99,
+      "shippingCharge": 5,
+      "total": 23.99,
+      "paymentMethod": "Razorpay",
+      "status": "Order Placed",
+      "createdAt": "2026-06-23T08:49:52.938Z",
+      "address": {
+        "fullName": "shifa",
+        "phone": "09526745274",
+        "address": "pakkath(H),aliparampa(po)",
+        "city": "karinkallathani",
+        "pincode": "679357"
+      },
+      "id": "8lUZmEOnlj4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
